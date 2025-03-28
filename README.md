@@ -1,0 +1,1 @@
+The Library Management System is a C-based application designed to manage library-related operations at Daffodil International University (DIU). It provides functionalities for book management, student records, borrowing and returning books, and tracking overdue books.
